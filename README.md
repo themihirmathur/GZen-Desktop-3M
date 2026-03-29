@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://opencode.ai](https://themihirmathurdtu.netlify.app/)">
+  <a href="[https://themihirmathurdtu.netlify.app](https://themihirmathurdtu.netlify.app/)">
     <picture>
       <img width="509" height="1024" alt="image" src="https://github.com/user-attachments/assets/e75c121a-2c98-48d3-85e1-c4b3d2fa9e25" />
     </picture>
